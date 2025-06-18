@@ -1,6 +1,8 @@
 # Customer-Sentiment-Analysis-in-Restaurant-Reviews-Using-NLP-
-Customer Sentiment Analysis in Restaurant Reviews Using NLP
+
+
 Project Overview
+
 This project analyzes customer sentiments in restaurant reviews using Natural Language Processing (NLP) techniques. The goal is to classify customer feedback as positive or negative, helping restaurants understand customer satisfaction and improve their services.
 
 Features
